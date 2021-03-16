@@ -1,6 +1,6 @@
 int main()
-{ 
-    printf("hellow world - Soy Alejo");
-
+{
+    printf("HOLA MUNDO, SOY ALEJO");
+    
     return 0;
 }
