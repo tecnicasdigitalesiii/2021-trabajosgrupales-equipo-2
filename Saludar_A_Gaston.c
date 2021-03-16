@@ -4,6 +4,8 @@ int main(int argc, char const *argv[])
     printf("hola  soy gaston");
     printf("hola chicos soy lucas");
     printf("hola chicos soy gastón");
+    printf("hola");
+
 
     return 0;
 }
