@@ -5,6 +5,8 @@ int main(int argc, char const *argv[])
     printf("hola chicos soy lucas");
     
     printf("hola chicos soy gastón");
+    printf("hola");
+
 
     printf("Hola soy el impresentable de siempre");
 
