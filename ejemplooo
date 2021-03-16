@@ -1,1 +1,6 @@
+#include <stdio>
 
+void (main)
+{
+    printf("ejemplo para Digitales 3");
+}
